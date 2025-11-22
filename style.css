@@ -256,12 +256,12 @@ ul {
     height: 80%;
     overflow: hidden;
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 
 .content img {
-    margin:35% ;
-    text-align: center;
+    justify-items: center;
+
     height:100vh;
     width: auto;
 }
